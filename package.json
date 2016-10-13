@@ -1,0 +1,27 @@
+{
+  "name": "morph-paintcoat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morph-css/morph-paintcoat.git"
+  },
+  "keywords": [
+    "morph",
+    "morph-css",
+    "morph-paintcoat",
+    "postcss",
+    "css",
+    "framework"
+  ],
+  "author": "Mateus Pinheiro <mateus.pinheiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morph-css/morph-paintcoat/issues"
+  },
+  "homepage": "https://github.com/morph-css/morph-paintcoat#readme"
+}
